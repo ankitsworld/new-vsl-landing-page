@@ -1,0 +1,6 @@
+{
+  "name": "High-Converting VSL Landing Page",
+  "description": "A single-column, high-converting Video Sales Letter (VSL) landing page with automated countdown timer, verified testimonials, and conversion tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
